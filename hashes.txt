@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Burning Ember Glow
+
+This log tracks the cryptographic history and versioning for the song **Burning Ember Glow** (burning-ember-glow).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-25T14:27:33.269909 | `v1` | `9a83f5cd70d5e898588bbe3880c42208711058097207aec6c196781393d912c7` | `5a9face44044fdb5bfb106a72b867be7cfa7c0165134b711bd4a1b62d0f0f9e7` | `2026-05-25_burning-ember-glow-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
