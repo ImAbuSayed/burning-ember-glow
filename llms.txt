@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/burning-ember-glow/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Burning Ember Glow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/burning-ember-glow/) |
+| **Get License** | [Music Rights & Licensing for Burning Ember Glow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/burning-ember-glow/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2100)
 
 ---
 
